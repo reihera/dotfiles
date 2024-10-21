@@ -38,7 +38,7 @@
 - piOS Discord Theme: https://github.com/Saltssaumure
 - Firefox Theme: https://github.com/adriankarlen/textfox/tree/main
 
-### For any issues, you can contact me via
+## Contact
 
 Telegram: https://t.me/AerakiMei
 
