@@ -26,7 +26,8 @@
 ## Installation
 
 1. Download Prerequisite applications and their dependancies. all can be downloaded either through pacman or the AUR. ngl im way too lazy to give instructions for other distros rn but it's probably relatively the same.
-2. Download ZIP from Github Repo
+2. Download ZIP from Github Repo (see attached image)
+![balls](https://github.com/user-attachments/assets/d80c29a4-fe35-4886-97a7-ec8eb44ebecc)
 3. Unzip and drag all files into ~/.config/ (EXCEPT FOR "chrome", for what to do with that, see https://github.com/adriankarlen/textfox/tree/main).
 4. Restart your computer
 
