@@ -16,7 +16,7 @@
     ags
     wl-clipboard
     NetworkManager
-    Hyprpicker
+    Hyprpicker
     envycontrol (optional, only for laptop with DGPU)
     Steam-tui (optional)
 
