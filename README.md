@@ -31,3 +31,10 @@
 3. Unzip and drag all files into ~/.config/ (EXCEPT FOR "chrome", for what to do with that, see https://github.com/adriankarlen/textfox/tree/main).
 4. Restart your computer
 
+### For any issues, you can contact me via
+
+Telegram: https://t.me/AerakiMei
+Discord: Aeraki
+Bluesky: https://aeraki.bsky.social
+Twitter: https://twitter.com/AerakiMei
+I'll try to respond as quickly as possible!
