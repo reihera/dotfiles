@@ -34,7 +34,11 @@
 ### For any issues, you can contact me via
 
 Telegram: https://t.me/AerakiMei
+
 Discord: Aeraki
+
 Bluesky: https://aeraki.bsky.social
+
 Twitter: https://twitter.com/AerakiMei
+
 I'll try to respond as quickly as possible!
