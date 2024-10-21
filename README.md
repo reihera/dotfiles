@@ -13,18 +13,19 @@
     Cool-Retro-Term
     nwg-look
     rofi
-    ags
+    aylurs-gtk-shell
     wl-clipboard
     NetworkManager
     Hyprpicker
     envycontrol (optional, only for laptop with DGPU)
     Steam-tui (optional)
+    nwg-displays (optional,reccomend for display config)
 
     
 
 ## Installation
 
-1. Download Prerequisite applications
+1. Download Prerequisite applications and their dependancies. all can be downloaded either through pacman or the AUR. ngl im way too lazy to give instructions for other distros rn but it's probably relatively the same.
 2. Download ZIP from Github Repo
 3. Unzip and drag all files into ~/.config/ (EXCEPT FOR "chrome", for what to do with that, see https://github.com/adriankarlen/textfox/tree/main).
 4. Restart your computer
