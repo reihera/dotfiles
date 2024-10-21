@@ -1,0 +1,15 @@
+@import url("variables.css");
+@import url("icons.css");
+@import url("navbar.css");
+@import url("urlbar.css");
+@import url("sidebar.css");
+@import url("browser.css");
+
+* {
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+}
+
+body {
+  background-color: var(--bg);
+}
