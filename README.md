@@ -1,3 +1,12 @@
 # SIGNALIS hyprland dotfiles
-SEE INSTALLATION INSTRUCTIONS 
-## Installation instructions
+
+## Prerequisites
+    Hyprland
+    Neofetch
+    Spicetify
+    Betterdiscord
+    Firefox
+    nwg-look
+    rofi
+    ags
+    
