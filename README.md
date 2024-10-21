@@ -31,6 +31,13 @@
 3. Unzip and drag all files into ~/.config/ (EXCEPT FOR "chrome", for what to do with that, see https://github.com/adriankarlen/textfox/tree/main).
 4. Restart your computer
 
+## Credits
+
+- ACHTUNG Wallpaper: https://cohost.org/Lantern/post/4996132-signalis-mobile-de
+- Template AGS config: https://github.com/Aylur/dotfiles
+- piOS Discord Theme: https://github.com/Saltssaumure
+- Firefox Theme: https://github.com/adriankarlen/textfox/tree/main
+
 ### For any issues, you can contact me via
 
 Telegram: https://t.me/AerakiMei
