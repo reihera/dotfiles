@@ -1,4 +1,3 @@
-# dotfiles
-My personal Hyprland dotfiles
-
-what the sigma
+# SIGNALIS hyprland dotfiles
+SEE INSTALLATION INSTRUCTIONS 
+## Installation instructions
