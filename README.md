@@ -40,12 +40,5 @@
 
 ## Contact
 
-Telegram: https://t.me/AerakiMei
-
-Discord: Aeraki
-
-Bluesky: https://aeraki.bsky.social
-
-Twitter: https://twitter.com/AerakiMei
-
-I'll try to respond as quickly as possible!
+Telegram: https://t.me/reihera
+Due to reasons of personal safety concering the government of my country, telegram is the only way to contact me moving forward. 
