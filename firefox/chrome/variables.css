@@ -1,13 +1,13 @@
 :root {
   --font-family: "SF Mono", Consolas, monospace;
   --font-size: 14px;
-  --accent: #a5a5a5;
+  --accent: #a51d2d;
   --bg: var(--lwt-accent-color, -moz-dialog);
-  --border: #201f2c;
+  --border: #535353;
   --border-transition: .2s ease;
   --rounding: 1px;
   --margin: 0.8rem;
-  --width: 2px;
+  --width: 1px;
 
   /*
    * ─[ overwrites ]───────────────────────────────────────────────────────
