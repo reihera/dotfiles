@@ -25,11 +25,19 @@
 
 ## Installation
 
+### For ".config" folder.
 1. Download Prerequisite applications and their dependancies. all can be downloaded either through pacman or the AUR. ngl im way too lazy to give instructions for other distros rn but it's probably relatively the same.
 2. Download ZIP from Github Repo (see attached image)
 ![balls](https://github.com/user-attachments/assets/d80c29a4-fe35-4886-97a7-ec8eb44ebecc)
-3. Unzip and drag all files into ~/.config/ (EXCEPT FOR "chrome", for what to do with that, see https://github.com/adriankarlen/textfox/tree/main).
-4. Restart your computer
+3. Unzip and drag all files from the ``.config`` folder into your ``~/.config/`` directory.
+4. Restart your computer.
+
+### For "firefox" folder.
+1. Find your current firefox profile by going to ``about:profiles`` in the browser. Find the default profile root directory and go there in a file manager. It will generally be in ``~/.mozilla/firefox/[yourprofilename]``
+2. From the ``firefox`` folder, drag the ``chrome`` and ``user.js`` folders into your profile directory.
+3. Restart Firefox.
+
+You will also need ![sideberry](https://addons.mozilla.org/en-US/firefox/addon/sidebery) if you want your tabs to be on a sidebar instead of on the top. 
 
 ## Credits
 
@@ -41,4 +49,4 @@
 ## Contact
 
 Telegram: https://t.me/reihera
-Due to reasons of personal safety concering the government of my country, telegram is the only way to contact me moving forward. 
+Due safety concerns regarding the government of my country, telegram is the only way to contact me moving forward. 
