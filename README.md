@@ -1,4 +1,4 @@
-# SIGNALIS hyprland dotfiles
+# SIGNALIS Hyprland dotfiles
 ![imagea](https://github.com/user-attachments/assets/7a7f62a3-8b63-428f-a486-0e0e003ce223)
 ![image](https://github.com/user-attachments/assets/ca2e825d-1aee-4f8b-84b7-1cb3f4e69262)
 
