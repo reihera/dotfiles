@@ -1,5 +1,4 @@
-# !!! IMPORTANT !!! SHIT IS CURRENTLY FUCKED !!!!
-## WITH THE NEW AGS/ASTAL UPDATE IT HAS COMPLETELY FUCKED EVERYTHING I HAVE WRITTEN!!!! PLEASEEEEEEEEE WAIT UNTIL I CAN FIX THIS!!!
+# This is the old version of my dotfiles, compatible with AGS V1.
 
 
 # SIGNALIS Hyprland dotfiles
